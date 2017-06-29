@@ -1,0 +1,6 @@
+c:\users\mgwwl\documents\visual studio 2017\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\bin\Debug\ConditionalPracticeProblems.exe.config
+c:\users\mgwwl\documents\visual studio 2017\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\bin\Debug\ConditionalPracticeProblems.exe
+c:\users\mgwwl\documents\visual studio 2017\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\bin\Debug\ConditionalPracticeProblems.pdb
+c:\users\mgwwl\documents\visual studio 2017\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\obj\Debug\ConditionalPracticeProblems.csprojResolveAssemblyReference.cache
+c:\users\mgwwl\documents\visual studio 2017\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\obj\Debug\ConditionalPracticeProblems.exe
+c:\users\mgwwl\documents\visual studio 2017\Projects\ConditionalPracticeProblems\ConditionalPracticeProblems\obj\Debug\ConditionalPracticeProblems.pdb
